@@ -258,3 +258,5 @@ src/App.IdentityServer/Logs/*
 src/App.HttpApi.Host/Logs/*
 src/App.HttpApi.HostWithIds/Logs/*
 src/App.DbMigrator/Logs/*
+
+Logs/*
